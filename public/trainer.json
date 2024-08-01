@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Smith Rok",
+    "email": "SmithRok56@gmail.com",
+    "age": "20",
+    "skills": "Personal Trainer",
+    "image": "https://i.ibb.co/xSH3zZf/trainer1.webp",
+    "available_time_week": "5464",
+    "available_time_day": "2",
+    "join_date": "2023-10-28T18:12:52.387Z",
+    "year_experience": 5
+  },
+  {
+    "name": "Alex David",
+    "email": "AlexDavid@gmail.com",
+    "age": "20",
+    "skills": "Personal Trainer",
+    "image": "https://i.ibb.co/ccrtSYv/trianer2.webp",
+    "available_time_week": "5464",
+    "available_time_day": "4",
+    "join_date": "2023-11-28T18:12:52.387Z",
+    "year_experience": 5
+  },
+  {
+    "name": "Alex Jon",
+    "email": "AlexJon56@gmail.com",
+    "age": "20",
+    "skills": "Personal Trainer",
+    "image": "https://i.ibb.co/ccrtSYv/trianer2.webp",
+    "available_time_week": "5464",
+    "available_time_day": "3",
+    "join_date": "2023-9-28T18:12:52.387Z",
+    "year_experience": 5
+  }
+  
+
+ 
+]

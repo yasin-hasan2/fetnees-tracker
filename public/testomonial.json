@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "rating": 5,
+      "title": "Life-Changing Fitness Journey",
+      "description": "Using the Fitness Tracker Website has been a game-changer for me. The intuitive workout logging and progress analytics have helped me achieve my fitness goals faster than I ever thought possible.",
+      "author_pic": "https://i.ibb.co/ggSPSxJ/download-2.jpg",
+      "author_name": "John Doe"
+    },
+    {
+      "id": 2,
+      "rating": 4.5,
+      "title": "Nutrition Made Easy",
+      "description": "The nutrition tracking feature has simplified my meal planning. I can easily monitor my calorie intake and make informed decisions about my diet. Highly recommended!",
+      "author_pic": "https://i.ibb.co/L07ycxN/download-3.jpg",
+      "author_name": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "title": "Improved Sleep Quality",
+      "description": "Thanks to the sleep analysis tool, I've been able to optimize my sleep schedule. Better sleep has positively impacted my energy levels and overall well-being.",
+      "author_pic": "https://i.ibb.co/6NnQHMT/download-4.jpg",
+      "author_name": "Chris Johnson"
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "title": "Motivation at Its Best",
+      "description": "The achievement rewards keep me motivated every day. Earning badges for reaching milestones adds a fun and competitive element to my fitness routine.",
+      "author_pic": "https://i.ibb.co/zxjywV1/download-5.jpg",
+      "author_name": "Emily Williams"
+    },
+    {
+      "id": 5,
+      "rating": 4.8,
+      "title": "Heart Health Tracking",
+      "description": "As someone with a focus on cardiovascular health, the heart rate monitoring feature has been invaluable. Accurate real-time tracking ensures I stay within my target zones during workouts.",
+      "author_pic": "https://i.ibb.co/2d8VyPS/download-6.jpg",
+      "author_name": "Alex Rodriguez"
+    }
+  ]
+  

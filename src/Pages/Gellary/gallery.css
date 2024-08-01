@@ -1,0 +1,6 @@
+.gallery {
+  -webkit-clip-path: polygon(11% 80%, 90% 80%, 100% 100%, 0% 100%);
+  clip-path: polygon(11% 80%, 90% 80%, 100% 100%, 0% 100%);
+  background-color: black;
+  color: brown;
+}

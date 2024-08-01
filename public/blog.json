@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "The Importance of Cardiovascular Exercise",
+      "description": "Explore the benefits of cardiovascular exercise and how it contributes to overall fitness and health.",
+      "category": "Fitness",
+      "author": "John doe",
+      "author_pic": "https://i.ibb.co/ggSPSxJ/download-2.jpg",
+      "date": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "title": "Balanced Nutrition: A Guide to Macronutrients",
+      "description": "Learn about the essential macronutrients and how to maintain a balanced diet for optimal performance.",
+      "category": "Nutrition",
+      "author": "NutritionGuru",
+      "author_pic": "https://i.ibb.co/L07ycxN/download-3.jpg",
+      "date": "2023-01-20"
+    },
+    {
+      "id": 3,
+      "title": "Effective Strength Training Techniques for Beginners",
+      "description": "Discover beginner-friendly strength training techniques to kickstart your fitness journey.",
+      "category": "Exercise",
+      "author": "FitBeginner123",
+      "author_pic": "https://i.ibb.co/6NnQHMT/download-4.jpg",
+      "date": "2023-01-25"
+    },
+    {
+      "id": 4,
+      "title": "The Role of Sleep in Muscle Recovery",
+      "description": "Explore the connection between quality sleep and the body's ability to recover and build muscle.",
+      "category": "Fitness",
+      "author": "SleepWellAthlete",
+      "author_pic": "https://i.ibb.co/zxjywV1/download-5.jpg",
+      "date": "2023-02-02"
+    }
+   
+  ]
+  

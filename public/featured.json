@@ -1,0 +1,33 @@
+[
+    {
+      "icon": "https://i.ibb.co/vBsPm7V/vital-signs-12718747.png",
+      "title": "Heart Rate Monitoring",
+      "description": "Track your heart rate in real-time and monitor your cardiovascular health during workouts."
+    },
+    {
+      "icon": "https://i.ibb.co/CzmsN2v/logs-5433716.png",
+      "title": "Workout Logging",
+      "description": "Effortlessly log your workouts, including sets, reps, and weights, to keep a comprehensive fitness journal."
+    },
+    {
+      "icon": "https://i.ibb.co/kBJkYST/diet-5477994.png",
+      "title": "Nutrition Tracking",
+      "description": "Record your daily food intake, track calories, and maintain a healthy diet for optimal fitness results."
+    },
+    {
+      "icon": "https://i.ibb.co/sF2TGnd/sleep-7678387.png",
+      "title": "Sleep Analysis",
+      "description": "Monitor your sleep patterns to ensure you get the rest you need for muscle recovery and overall well-being."
+    },
+    {
+      "icon": "https://i.ibb.co/wWymtgb/pie-chart-2299733.png",
+      "title": "Progress Analytics",
+      "description": "Visualize your fitness journey with detailed analytics and charts showcasing your progress over time."
+    },
+    {
+      "icon": "https://i.ibb.co/fxr3vS3/reward-985626.png",
+      "title": "Achievement Rewards",
+      "description": "Earn badges and rewards for reaching fitness milestones, encouraging you to stay motivated and active."
+    }
+  ]
+  

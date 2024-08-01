@@ -1,0 +1,46 @@
+ [
+      {
+        "trainer_name": "Alex Johnson",
+        "trainer_skill": "Certified Yoga Instructor",
+        "description": "Join this invigorating yoga class to improve flexibility, strength, and inner peace.",
+        "image": "https://i.ibb.co/PhmGCqQ/pexels-li-sun-371049.jpg",
+        "class_name": "Morning Yoga Flow"
+      },
+      {
+        "trainer_name": "Emily Smith",
+        "trainer_skill": "High-Intensity Interval Training (HIIT) Specialist",
+        "description": "Experience a high-energy workout with intense intervals for maximum calorie burn.",
+        "image": "https://i.ibb.co/wWq6F1m/pexels-leon-ardho-1552103.jpg",
+        "class_name": "HIIT Express"
+      },
+      {
+        "trainer_name": "Daniel Brown",
+        "trainer_skill": "Certified Spin Instructor",
+        "description": "Pedal your way to fitness with an exhilarating spin class led by our expert instructor.",
+        "image": "https://i.ibb.co/cL8Vz5y/pexels-pixabay-414029.jpg",
+        "class_name": "Spin & Sweat"
+      },
+      {
+        "trainer_name": "Sophia Anderson",
+        "trainer_skill": "Personal Trainer and Nutrition Coach",
+        "description": "Get personalized fitness guidance and nutrition advice to achieve your fitness goals.",
+        "image": "https://i.ibb.co/fHMHGfW/pexels-kuldeep-singhania-2105493.jpg",
+        "class_name": "Personalized Fitness Coaching"
+      },
+      {
+        "trainer_name": "Chris Garcia",
+        "trainer_skill": "Certified CrossFit Coach",
+        "description": "Challenge yourself with a dynamic and varied CrossFit workout for overall fitness improvement.",
+        "image": "https://i.ibb.co/MPJCQyP/pexels-cesar-gale-o-3253501.jpg",
+        "class_name": "CrossFit Challenge"
+      },
+      {
+        "trainer_name": "Olivia Turner",
+        "trainer_skill": "Zumba Instructor",
+        "description": "Dance your way to fitness with the energetic and fun Zumba class led by Olivia.",
+        "image": "https://i.ibb.co/6vDbqFF/banner.jpg",
+        "class_name": "Zumba Fiesta"
+      }
+    ]
+  
+  

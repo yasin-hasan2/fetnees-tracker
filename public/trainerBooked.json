@@ -1,0 +1,23 @@
+[
+    {   "id": 1,
+        "ranks": "silver",
+        "price" : 20,
+        "trainer": 2,
+        "support": "3 weeks",
+        "special_support": "Life time technical support"
+    },
+    {   "id": 2,
+        "ranks": "gold",
+        "price" : 50,
+        "trainer": 5,
+        "support": "2 Month",
+        "special_support": "Life time technical support"
+    },
+    {"id": 3,
+        "ranks": "diamond",
+        "price" : 100,
+        "trainer": 10,
+        "support": "2 years",
+        "special_support": "Life time technical support"
+    }
+]
