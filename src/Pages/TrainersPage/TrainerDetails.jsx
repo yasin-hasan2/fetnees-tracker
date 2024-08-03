@@ -5,6 +5,7 @@ import SectionTitle from '../../Components/SectionTitle';
 
 const TrainerDetails = () => {
   const trainer = useLoaderData();
+  console.log(trainer)
   const navigate = useNavigate();
   const [selectedSlot, setSelectedSlot] = useState(null);
 

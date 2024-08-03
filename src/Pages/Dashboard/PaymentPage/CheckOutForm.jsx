@@ -122,7 +122,7 @@ const CheckOutForm = ({trainer}) => {
         />
 
         <button
-          className="btn btn-sm btn-primary my-4"
+          className="btn btn-sm btn-primary my-4 hidden"
           type="submit"
           disabled={!stripe}>
           Pay
