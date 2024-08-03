@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const useAxios = axios.create({
-    baseURL: 'http://localhost:5600'
+    baseURL: 'https://fitness-tracker-server-tau.vercel.app'
 })
 
 const useAxiosPublic = () => {

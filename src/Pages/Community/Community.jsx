@@ -38,7 +38,7 @@ const Community = () => {
   console.log(posts);
 
   useEffect(() => {
-    fetch("http://localhost:5600/pageCount")
+    fetch("https://fitness-tracker-server-tau.vercel.app/pageCount")
       .then((res) => res.json())
       .then((data) => setCount(data.count));
   }, []);

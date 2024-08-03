@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 
 const useAxios = axios.create({
-  baseURL: "http://localhost:5600",
+  baseURL: "https://fitness-tracker-server-tau.vercel.app",
 });
 
 const useAxiosSecure = () => {

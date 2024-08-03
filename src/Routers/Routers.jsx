@@ -57,7 +57,7 @@ const Routers = createBrowserRouter([
                 {
                     path: '/trainerDetails/:id',
                     element: <TrainerDetails/>,
-                    loader: ({params})=> fetch(`http://localhost:5600/trainers/${params.id}`)
+                    loader: ({params})=> fetch(`https://fitness-tracker-server-tau.vercel.app/trainers/${params.id}`)
                 },
                 {
                     path: '/be-a-trainer',
@@ -70,7 +70,7 @@ const Routers = createBrowserRouter([
                 {
                     path: '/classes-details/:id',
                     element: <ClassesDetails/>,
-                    loader: ({params})=> fetch(`http://localhost:5600/classes/${params.id}`)
+                    loader: ({params})=> fetch(`https://fitness-tracker-server-tau.vercel.app/classes/${params.id}`)
                 },
                 {
                     path: '/community',
@@ -138,7 +138,7 @@ const Routers = createBrowserRouter([
                 {
                     path: '/dashboard/payment-page/:id',
                     element: <PrivateRoute><AdminRouter><PaymentPage/></AdminRouter></PrivateRoute>,
-                    loader: ({params})=> fetch(`http://localhost:5600/trainers/${params.id}`)
+                    loader: ({params})=> fetch(`https://fitness-tracker-server-tau.vercel.app/trainers/${params.id}`)
                 },
                 {
                     path: '/dashboard/all-trainer',
